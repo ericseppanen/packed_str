@@ -1,7 +1,14 @@
 [package]
 name = "packed_str"
-version = "0.1.0"
+version = "0.2.0"
+description = "Parse CDDL schemas and validate CBOR or JSON serialized data"
+keywords = ["cddl", "cbor", "json"]
+categories = ["encoding", "network-programming", "parser-implementations"]
+repository = "https://github.com/ericseppanen/packed_str"
+license = "MIT"
+readme = "README.md"
 edition = "2021"
+rust-version = "1.56"
 
 [dependencies]
 # No dependencies!
