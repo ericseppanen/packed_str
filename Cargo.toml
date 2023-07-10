@@ -12,3 +12,6 @@ rust-version = "1.56"
 
 [dependencies]
 # No dependencies!
+
+[package.metadata.release]
+pre-release-commit-message = "release {{version}}"
