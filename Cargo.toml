@@ -1,9 +1,9 @@
 [package]
 name = "packed_str"
 version = "0.2.0"
-description = "Parse CDDL schemas and validate CBOR or JSON serialized data"
-keywords = ["cddl", "cbor", "json"]
-categories = ["encoding", "network-programming", "parser-implementations"]
+description = "Store immutable strings in a single packed allocation"
+keywords = ["packed", "static", "strings", "array"]
+categories = ["data-structures"]
 repository = "https://github.com/ericseppanen/packed_str"
 license = "MIT"
 readme = "README.md"
