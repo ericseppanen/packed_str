@@ -1,6 +1,6 @@
 [package]
 name = "packed_str"
-version = "0.2.0"
+version = "0.2.1"
 description = "Store immutable strings in a single packed allocation"
 keywords = ["packed", "static", "strings", "array"]
 categories = ["data-structures"]
